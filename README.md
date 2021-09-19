@@ -1,0 +1,2 @@
+# Landing_Page
+It has many important features such as 1- Build a multi-section landing page 2-a navigational menu 3-Clicking on a navigation item should scroll to the appropriate section of the page.Hide fixed navigation bar while not scrolling 4-Add a scroll to top button on the page that's only visible when the user scrolls below the fold of the page. 5-Set class to active state on the navigation items when a section is in the viewport. 6-on click action on the nav menu. 7-Create a responsive landing page. 8-use the jquery.
